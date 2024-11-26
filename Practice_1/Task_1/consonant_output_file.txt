@@ -1,0 +1,3 @@
+Total words: 2375
+Consonant words: 1674
+Consonant words ratio: 0.70
