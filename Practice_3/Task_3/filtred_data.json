@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Акрукс 9525",
+        "constellation": "Дева",
+        "spectral-class": "J8R",
+        "radius": "853469848",
+        "rotation": "948.63 days",
+        "age": "4.64 billion years",
+        "distance": "743992.3 million km",
+        "absolute-magnitude": "5.69 million km"
+    },
+    {
+        "name": "Полярная звезда 2017",
+        "constellation": "Дева",
+        "spectral-class": "B9O",
+        "radius": "473433520",
+        "rotation": "300.21 days",
+        "age": "4.04 billion years",
+        "distance": "4392830.0 million km",
+        "absolute-magnitude": "3.35 million km"
+    },
+    {
+        "name": "Ригель 4209",
+        "constellation": "Дева",
+        "spectral-class": "T2P",
+        "radius": "404430217",
+        "rotation": "946.51 days",
+        "age": "5.82 billion years",
+        "distance": "4756423.84 million km",
+        "absolute-magnitude": "5.81 million km"
+    },
+    {
+        "name": "Бетельгейзе 9803",
+        "constellation": "Дева",
+        "spectral-class": "E3H",
+        "radius": "435212297",
+        "rotation": "400.94 days",
+        "age": "2.96 billion years",
+        "distance": "7219674.06 million km",
+        "absolute-magnitude": "4.71 million km"
+    },
+    {
+        "name": "Ригель 7906",
+        "constellation": "Дева",
+        "spectral-class": "M9Y",
+        "radius": "477979764",
+        "rotation": "609.7 days",
+        "age": "5.38 billion years",
+        "distance": "2344477.73 million km",
+        "absolute-magnitude": "1.11 million km"
+    },
+    {
+        "name": "Акрукс 2930",
+        "constellation": "Дева",
+        "spectral-class": "W2Y",
+        "radius": "138181181",
+        "rotation": "257.42 days",
+        "age": "0.03 billion years",
+        "distance": "9954452.39 million km",
+        "absolute-magnitude": "7.15 million km"
+    },
+    {
+        "name": "Канопус 7251",
+        "constellation": "Дева",
+        "spectral-class": "W6F",
+        "radius": "639256479",
+        "rotation": "237.52 days",
+        "age": "2.95 billion years",
+        "distance": "2656416.32 million km",
+        "absolute-magnitude": "3.73 million km"
+    }
+]
