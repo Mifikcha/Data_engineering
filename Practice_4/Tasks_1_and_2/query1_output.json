@@ -1,0 +1,152 @@
+[
+    {
+        "id": 191274,
+        "name": "Ставангер 1988",
+        "city": "Санкт-Петербург",
+        "begin": "20.04",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2203,
+        "time_on_game": 79
+    },
+    {
+        "id": 259166,
+        "name": "Аэрофлот Опен 2004",
+        "city": "Кадакес",
+        "begin": "17.04",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2211,
+        "time_on_game": 66
+    },
+    {
+        "id": 276499,
+        "name": "Тилбург 1986",
+        "city": "Душанбе",
+        "begin": "20.06",
+        "system": "circular",
+        "tours_count": 9,
+        "min_rating": 2211,
+        "time_on_game": 28
+    },
+    {
+        "id": 568035,
+        "name": "Пойковский 2021",
+        "city": "Рига",
+        "begin": "14.04",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2213,
+        "time_on_game": 132
+    },
+    {
+        "id": 624304,
+        "name": "Европа 2012",
+        "city": "Афины",
+        "begin": "08.03",
+        "system": "Swiss",
+        "tours_count": 6,
+        "min_rating": 2246,
+        "time_on_game": 29
+    },
+    {
+        "id": 526181,
+        "name": "Пойковский 1974",
+        "city": "Сараево",
+        "begin": "26.04",
+        "system": "Swiss",
+        "tours_count": 11,
+        "min_rating": 2247,
+        "time_on_game": 20
+    },
+    {
+        "id": 687643,
+        "name": "Чемпионат мира 1985",
+        "city": "Трухильо",
+        "begin": "20.11",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2262,
+        "time_on_game": 160
+    },
+    {
+        "id": 531673,
+        "name": "Вейк-ан-Зее 1982",
+        "city": "Монсон",
+        "begin": "09.02",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2267,
+        "time_on_game": 89
+    },
+    {
+        "id": 141123,
+        "name": "Линарес 1958",
+        "city": "Луарка",
+        "begin": "16.12",
+        "system": "Swiss",
+        "tours_count": 7,
+        "min_rating": 2279,
+        "time_on_game": 139
+    },
+    {
+        "id": 259906,
+        "name": "Тилбург 1984",
+        "city": "Картахена",
+        "begin": "06.02",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2281,
+        "time_on_game": 90
+    },
+    {
+        "id": 951714,
+        "name": "Линарес 1962",
+        "city": "Навалькарнеро",
+        "begin": "10.12",
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2288,
+        "time_on_game": 162
+    },
+    {
+        "id": 293681,
+        "name": "Хогевен 1969",
+        "city": "Ереван",
+        "begin": "26.06",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2291,
+        "time_on_game": 26
+    },
+    {
+        "id": 116623,
+        "name": "Турнир претендентов 1982",
+        "city": "Валенсия",
+        "begin": "24.03",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2300,
+        "time_on_game": 145
+    },
+    {
+        "id": 491437,
+        "name": "Политика 1979",
+        "city": "Фигерас",
+        "begin": "26.03",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2310,
+        "time_on_game": 133
+    },
+    {
+        "id": 785861,
+        "name": "Линарес 1953",
+        "city": "Сьюдад-Реаль",
+        "begin": "03.05",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2317,
+        "time_on_game": 30
+    }
+]

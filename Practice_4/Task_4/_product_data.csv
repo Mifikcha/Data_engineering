@@ -1,0 +1,420 @@
+name;price;quantity;category;fromCity;isAvailable;views
+
+elegant pineapple;77.66;611;fruit;Вильнюс;False;65077
+
+stylish tape measure;77.25;668;tools;Овьедо;False;25348
+
+stylish manicure set;77.01;675;cosmetics;Алма-Ата;True;267
+
+EVGA 500B 80+ BRONZE;87535;38;Тирана;True;95633
+
+marvelous strawberry;36.29;937;fruit;Будапешт;True;18060
+
+Logitech Wireless Keyboard;68427;14;Бланес;True;70856
+
+marvelous pineapple;56.68;766;fruit;Санкт-Петербург;True;52519
+
+magnificent serum;79.57;679;cosmetics;Ла-Корунья;False;51142
+
+delightful baby shampoo;46.14;942;cosmetics;Пласенсия;True;98618
+
+glamorous electrical;86.11;677;tools;Краков;True;52884
+
+glamorous cranberry;32.99;784;fruit;Ташкент;False;18940
+
+Ricoh Aficio MP;17296;65;Вальядолид;True;34835
+
+exquisite banana;26.51;629;fruit;Рига;False;19665
+
+delightful scaffolding;76.62;966;tools;Алма-Ата;True;99061
+
+Brother DCP-T510W;59441;22;Тирана;False;25623
+
+attractive level;76.53;869;tools;Аликанте;True;62908
+
+attractive ladder;34.46;890;tools;Тбилиси;True;60245
+
+sublime toothpaste;39.75;493;cosmetics;Лас-Росас;False;47421
+
+elegant night cream;32.56;622;cosmetics;Малага;True;92361
+
+glamorous cranberry;55.64;835;fruit;Будапешт;False;1982
+
+Kingston Canvas Select Plus;63026;15;Самора;False;67897
+
+nice lip balm;86.35;551;cosmetics;Бланес;True;31730
+
+trendy saw;46.12;942;tools;Мурсия;True;75727
+
+Epson Expression Home XP;81769;28;Махадаонда;True;7622
+
+Kingston Canvas Select Plus;68152;71;Вальядолид;True;20201
+
+marvelous perfume;72.55;683;cosmetics;Рига;True;81793
+
+attractive conditioner;57.11;564;cosmetics;Кадакес;True;32105
+
+marvelous papaya;29.9;695;fruit;Валенсия;False;77861
+
+pleasant wallpaper;90.94;990;tools;Баку;True;56015
+
+sublime strawberry;92.13;641;fruit;Эльче;True;58783
+
+Kingston Canvas Select Plus;13311;57;Сеговия;False;826
+
+Ricoh Aficio MP;59148;15;Загреб;True;25124
+
+elegant plum;35.33;557;fruit;Белград;False;40279
+
+nice shovel;64.82;799;tools;Луго;True;14310
+
+EVGA 500B 80+ BRONZE;32154;76;Вильявисиоса;True;11263
+
+sublime screws;100.0;843;tools;Сантьяго-де-Компостела;True;86082
+
+trendy sunscreen;53.49;678;cosmetics;Киев;False;41333
+
+pretty sunscreen;27.25;714;cosmetics;Душанбе;True;12571
+
+gorgeous grapes;42.26;679;fruit;Вильявисиоса;True;26114
+
+superb siding;86.66;588;tools;Фигерас;True;28326
+
+beautiful doors;81.21;939;tools;Валенсия;False;470
+
+refined shovel;45.57;590;tools;Мартоса;True;54694
+
+Brother DCP-T510W;33396;65;Мадрид;True;43232
+
+Samsung 970 EVO SSD;18759;66;Прага;False;89295
+
+marvelous paint;80.76;604;tools;Льейда;True;24685
+
+NVIDIA GeForce GTX 1050;68031;40;Загреб;False;8639
+
+glamorous moustache wax;23.9;859;cosmetics;Киев;True;71551
+
+pleasant raspberry;29.47;757;fruit;Таллин;False;33602
+
+HP LaserJet Pro;78186;26;Прага;False;83887
+
+pretty windows;85.43;878;tools;София;True;21429
+
+pleasant bubble bath;73.74;740;cosmetics;Касерес;False;89941
+
+superb eye cream;87.3;879;cosmetics;Подгорица;True;14383
+
+magnificent sunscreen;66.18;691;cosmetics;Авилес;False;97012
+
+superb body wash;82.61;570;cosmetics;Аликанте;True;76518
+
+delightful pedicure set;49.18;590;cosmetics;Осера;True;41370
+
+Epson Expression Home XP;33102;57;Авилес;True;24589
+
+Ricoh Aficio MP;76066;14;Астана;True;66405
+
+delightful wallpaper;71.42;801;tools;Вроцлав;False;5757
+
+exquisite melon;11.51;605;fruit;Бургос;True;58948
+
+nice blackberry;19.28;530;fruit;София;True;39979
+
+stylish toothpaste;65.45;564;cosmetics;Санхенхо;False;31841
+
+pleasant boysenberry;74.59;691;fruit;Минск;True;3528
+
+Brother DCP-T510W;14719;64;Тирана;False;96701
+
+exquisite strawberry;88.14;948;fruit;Осера;True;45497
+
+nice deodorant;44.77;798;cosmetics;Рига;False;6933
+
+refined scaffolding;61.91;482;tools;Сараево;False;49412
+
+luxurious hair mask;64.96;572;cosmetics;Хихон;False;72463
+
+Epson Expression Home XP;62527;37;Алма-Ата;True;33091
+
+glamorous eye cream;33.5;720;cosmetics;Осера;True;3479
+
+trendy plum;96.14;925;fruit;Валенсия;True;95294
+
+delightful nail file;74.81;644;cosmetics;Мерида;True;77100
+
+elegant trim;55.84;506;tools;Хельсинки;True;77883
+
+trendy saw;26.68;938;tools;Баку;True;60465
+
+gorgeous banana;54.03;762;fruit;Алма-Ата;False;66829
+
+HyperX DDR4 RAM;51183;51;Фигерас;False;64289
+
+NVIDIA GeForce GTX 1050;81515;66;Луарка;True;45968
+
+amazing lip balm;68.42;909;cosmetics;Навалькарнеро;True;54251
+
+Ricoh Aficio MP;20555;11;Мерида;True;44395
+
+EVGA 500B 80+ BRONZE;48730;57;Ташкент;False;4958
+
+trendy shampoo;18.77;783;cosmetics;Вальядолид;False;70767
+
+attractive orange;58.48;824;fruit;Минск;False;32761
+
+pretty apple;94.08;963;fruit;Варшава;True;30298
+
+Epson Expression Home XP;93790;41;Ла-Корунья;True;89900
+
+EVGA 500B 80+ BRONZE;62272;69;Эльче;False;99281
+
+attractive lotion;76.97;587;cosmetics;Астана;False;93947
+
+gorgeous wallpaper;73.11;590;tools;Варшава;False;93747
+
+Brother DCP-T510W;58689;68;Фигерас;False;79344
+
+pretty toothpaste;78.46;995;cosmetics;Картахена;True;77942
+
+superb strawberry;97.32;889;fruit;Тудела;True;21423
+
+WD Blue HDD;35996;57;Льейда;True;81542
+
+Kingston Canvas Select Plus;11681;39;Вильнюс;False;16313
+
+stylish wheelbarrow;75.78;582;tools;Картахена;False;51191
+
+HP LaserJet Pro;22601;41;Хельсинки;True;92226
+
+stylish lotion;12.9;870;cosmetics;Касерес;True;82840
+
+Ricoh Aficio MP;54610;22;Аликанте;True;84905
+
+pretty serum;47.47;766;cosmetics;Ереван;True;96138
+
+superb exfoliator;76.3;829;cosmetics;Гранада;False;28428
+
+refined perfume;19.56;890;cosmetics;Авилес;True;35046
+
+Samsung 970 EVO SSD;78157;33;Санхенхо;True;49503
+
+exquisite doors;29.61;715;tools;Ташкент;True;25083
+
+magnificent scaffolding;94.54;893;tools;Мадрид;True;65406
+
+delightful serum;88.65;743;cosmetics;Кишинев;True;86328
+
+pretty apple;85.56;1002;fruit;Сеговия;False;65048
+
+gorgeous chisel;77.34;877;tools;Хихон;False;78510
+
+trendy apricot;34.56;899;fruit;Луарка;False;57944
+
+beautiful eye cream;68.01;933;cosmetics;Кишинев;True;98052
+
+amazing blackberry;99.38;528;fruit;Осера;False;89496
+
+stylish makeup remover;76.53;935;cosmetics;Пласенсия;False;25543
+
+refined moustache wax;66.99;691;cosmetics;Хихон;True;48451
+
+SteelSeries Arctis 7;35526;69;Москва;True;75935
+
+nice bubble bath;28.49;981;cosmetics;Подгорица;True;94933
+
+Canon PIXMA;54514;29;Скопье;False;90656
+
+nice siding;38.99;565;tools;Ташкент;True;74102
+
+beautiful bubble bath;49.34;855;cosmetics;Сан-Себастьян;True;50431
+
+magnificent flooring;70.78;948;tools;Гранада;True;41991
+
+delightful papaya;58.67;726;fruit;Ереван;False;27068
+
+delightful blueberry;86.62;845;fruit;Ташкент;True;57713
+
+Kingston Canvas Select Plus;95016;69;Алькала-де-Энарес;True;54289
+
+Ricoh Aficio MP;63268;47;Хихон;False;96646
+
+superb grapes;28.3;961;fruit;Вальядолид;True;43823
+
+marvelous banana;58.9;943;fruit;Севилья;False;9895
+
+amazing insulation;72.62;825;tools;Авилес;True;85401
+
+Corsair HS60;35352;47;Тарраса;True;73141
+
+marvelous boysenberry;52.65;711;fruit;Загреб;False;45939
+
+nice cranberry;42.61;542;fruit;Лас-Росас;False;62329
+
+delightful saw;78.8;585;tools;Тбилиси;False;91707
+
+tasteful ladder;93.95;917;tools;Киев;True;97337
+
+attractive hair mask;53.18;980;cosmetics;Хихон;True;18133
+
+HyperX DDR4 RAM;93363;59;Сория;False;86234
+
+delightful pedicure set;86.63;846;cosmetics;Махадаонда;False;88665
+
+delightful screws;70.28;489;tools;Валенсия;False;99759
+
+trendy plumbing;35.98;575;tools;Сараево;True;33862
+
+Intel Core i5;76822;12;Сараево;True;76620
+
+pleasant melon;87.07;594;fruit;Ла-Корунья;True;63801
+
+stylish pedicure set;44.58;675;cosmetics;Касерес;True;18619
+
+EVGA 500B 80+ BRONZE;25593;76;Алькала-де-Энарес;True;73141
+
+nice ladder;50.16;519;tools;Семана;False;54538
+
+pleasant apple;50.89;685;fruit;Загреб;True;95834
+
+exquisite raspberry;71.95;939;fruit;Виго;True;43529
+
+amazing baby shampoo;73.9;856;cosmetics;Осера;False;96575
+
+luxurious peach;89.23;911;fruit;Ла-Корунья;False;16700
+
+superb nail polish;80.72;911;cosmetics;Гранада;True;21598
+
+Brother DCP-T510W;71731;12;Любляна;True;92573
+
+Intel Core i5;71785;33;Кордова;False;41864
+
+beautiful papaya;40.09;627;fruit;Эльче;True;18497
+
+Epson Expression Home XP;80890;22;Санхенхо;False;11631
+
+tasteful screws;89.52;752;tools;Виго;False;21574
+
+Kingston Canvas Select Plus;93666;76;Мартоса;False;93062
+
+HyperX DDR4 RAM;28840;62;Бургос;False;31195
+
+Intel Core i5;25278;43;Будапешт;False;18607
+
+superb hammer;88.69;1002;tools;Сория;True;74746
+
+magnificent windows;94.74;567;tools;Вильнюс;True;22444
+
+superb conditioner;94.41;574;cosmetics;Гранада;True;53389
+
+gorgeous conditioner;60.74;803;cosmetics;Хихон;True;58178
+
+pleasant electrical;71.72;862;tools;Монсон;False;69902
+
+Corsair HS60;98201;19;Кордова;False;61772
+
+Ricoh Aficio MP;50535;18;Сеговия;False;76215
+
+Intel Core i5;33215;76;Афины;False;57279
+
+WD Blue HDD;40274;14;Семана;True;92356
+
+magnificent sunscreen;33.47;590;cosmetics;Картахена;True;69896
+
+Ricoh Aficio MP;53197;44;Бишкек;True;4819
+
+pretty cherry;18.2;893;fruit;Камбадос;True;96878
+
+refined drywall;81.69;513;tools;Баку;True;96462
+
+HyperX DDR4 RAM;60848;67;Подгорица;False;77268
+
+amazing nail polish;10.58;548;cosmetics;Белград;True;42631
+
+attractive baby shampoo;24.57;953;cosmetics;Тирана;False;28420
+
+marvelous mango;58.03;727;fruit;Трухильо;True;97903
+
+tasteful screws;26.55;496;tools;Овьедо;False;53382
+
+Razer Variau;81157;60;Ташкент;True;65763
+
+stylish toothpaste;48.58;726;cosmetics;Касерес;True;19889
+
+gorgeous saw;48.9;804;tools;Минск;True;21202
+
+NVIDIA GeForce GTX 1050;47997;26;Рига;False;37059
+
+Canon PIXMA;73321;77;Санхенхо;True;34717
+
+Razer Variau;58995;69;Ла-Корунья;True;26831
+
+SteelSeries Arctis 7;91285;73;Луарка;False;85144
+
+HyperX DDR4 RAM;62450;76;Подгорица;True;49881
+
+sublime night cream;84.04;512;cosmetics;Мурсия;False;34751
+
+attractive manicure set;87.83;801;cosmetics;Монсон;False;99383
+
+gorgeous blueberry;71.39;626;fruit;Загреб;False;75195
+
+attractive lotion;52.2;878;cosmetics;Ташкент;False;23640
+
+delightful guava;27.27;603;fruit;Вильнюс;False;20673
+
+HP LaserJet Pro;68924;15;Хихон;True;18788
+
+gorgeous mango;56.78;833;fruit;Мурсия;False;49642
+
+superb exfoliator;11.63;659;cosmetics;Луго;True;74072
+
+amazing raspberry;20.91;925;fruit;Сьюдад-Реаль;False;8106
+
+refined roofing;61.27;1003;tools;Сория;False;34250
+
+Canon PIXMA;12301;69;Сеговия;True;54124
+
+Razer Variau;10886;21;Картахена;True;49077
+
+Canon PIXMA;89501;30;Сараево;False;17928
+
+trendy apricot;39.56;636;fruit;Осера;True;42910
+
+Kingston Canvas Select Plus;53702;36;Вальядолид;True;12473
+
+pretty shovel;43.93;498;tools;Бургос;False;36336
+
+stylish boysenberry;51.62;809;fruit;Гранада;True;65294
+
+refined strawberry;85.25;818;fruit;Хихон;False;64456
+
+SteelSeries Arctis 7;88441;69;Авилес;False;94456
+
+EVGA 500B 80+ BRONZE;63853;71;Мерида;True;95873
+
+delightful roofing;42.64;499;tools;Аликанте;True;83776
+
+HyperX DDR4 RAM;79388;77;Вильнюс;True;13975
+
+Logitech Wireless Keyboard;84280;64;Тарраса;False;9960
+
+sublime sunscreen;79.04;511;cosmetics;Кордова;True;35119
+
+Epson Expression Home XP;58482;29;Аликанте;True;83642
+
+Brother DCP-T510W;17543;53;Мартоса;True;26451
+
+delightful glue;44.41;571;tools;Загреб;False;27318
+
+exquisite shampoo;74.76;900;cosmetics;Артейхо;False;605
+
+WD Blue HDD;73565;63;Любляна;True;77588
+
+Kingston Canvas Select Plus;33956;56;Овьедо;False;23989
+
+superb night cream;95.74;903;cosmetics;Алма-Ата;False;58078
+
+sublime nail polish;40.62;566;cosmetics;Хихон;False;30628
+
+AMD Ryzen 5;99899;65;Осера;False;78357
+
