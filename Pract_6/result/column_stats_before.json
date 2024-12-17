@@ -1,0 +1,26 @@
+[
+    {
+        "column": "user_id",
+        "dtype": "object",
+        "memory_usage_mb": 527.8730974197388,
+        "unique_values": 4201655
+    },
+    {
+        "column": "product_id",
+        "dtype": "object",
+        "memory_usage_mb": 499.9496421813965,
+        "unique_values": 475987
+    },
+    {
+        "column": "rating",
+        "dtype": "float64",
+        "memory_usage_mb": 59.695587158203125,
+        "unique_values": 5
+    },
+    {
+        "column": "timestamp",
+        "dtype": "int64",
+        "memory_usage_mb": 59.695587158203125,
+        "unique_values": 5489
+    }
+]
